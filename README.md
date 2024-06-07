@@ -1,4 +1,4 @@
-# SwiftUI_Log
+# SwiftUI 學習日誌
 
 
 `2024/6/7`
